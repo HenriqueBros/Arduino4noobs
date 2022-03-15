@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/he4rt/4noobs" target="_blank">
-    <img src=".git/header_4noobs.svg">
+    <img src="./.github/header_4noobs.svg">
   </a>
 </p>
 
@@ -36,6 +36,6 @@ Para contribuir com esse projeto maravilhoso, você:
 <br>
   <p align="center">
   <a href="https://heartdevs.com" target="_blank">
-    <img src=".git/footer_4noobs.svg" width="100%" alt="Logo do 4noobs">
+    <img src="./.github/footer_4noobs.svg" width="100%" alt="Logo do 4noobs">
   </a>
 </p>

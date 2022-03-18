@@ -1,5 +1,11 @@
 # Entendendo o Código
 
+## Materiais necessarios:
+
+- Arduino
+- Led
+- Resistor 330 Ohms 5%
+- Jumpers
 ## Passo a passo:
 
 Acesse o [código](./Blink.ino) para ir acompanhando.

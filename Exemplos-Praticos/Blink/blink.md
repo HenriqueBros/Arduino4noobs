@@ -30,6 +30,7 @@ void loop() {
 ## Imagens do projeto montado
 
 ### Com o arduino:
-<img src="./assets/blink-ardu.jpeg">
+<img src="./assets/blink-ardu.jpeg" height="350">
+
 ### Utilizando o simulador Tinkercad
 <img src="./assets/blink-tinker.png">

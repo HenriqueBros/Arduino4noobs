@@ -46,7 +46,7 @@ void loop() {
 ### Com o arduino:
 
 <div>
-  <img src="./assets/pot-ardu.jpeg" height="350">
+  <img src="./assets/pot-ardu.jpeg" height="350"> <br>
   <img src="./assets/pot-ardu2.jpeg" height="550">
 </div>
 

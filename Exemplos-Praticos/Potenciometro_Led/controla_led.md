@@ -52,3 +52,5 @@ void loop() {
 ### Utilizando o simulador Tinkercad:
 
 <img src="./assets/pot_led.png">
+
+[Anterior](../Potenciometro/potenciometro.md)

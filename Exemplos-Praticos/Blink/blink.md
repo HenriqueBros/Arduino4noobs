@@ -40,3 +40,7 @@ void loop() {
 
 ### Utilizando o simulador Tinkercad:
 <img src="./assets/blink-tinker.png">
+
+[Anterior](../../03/01-ide.md)
+
+[Próximo](../Potenciometro/potenciometro.md)

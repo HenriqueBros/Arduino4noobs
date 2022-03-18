@@ -57,3 +57,7 @@ void loop() {
 ### Serial Monitor com Valores do Potenciômetro:
 
 <img src="./assets/serial-monitor-pot.png">
+
+[Anterior](../Blink/blink.md)
+
+[Próximo](../Potenciometro_Led/controla_led.md)

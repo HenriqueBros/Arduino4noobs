@@ -18,6 +18,8 @@ Neste 4noobs focarei mais a parte da programação do arduino, você pode aprend
 - [O que são funções](./02/02-funcoes.md)
 - [O que são bibliotecas](./02/03-bibliotecas.md)
 - [Onde programar](./03/01-ide.md)
+- [Exemplos Práticos](./Exemplos-Praticos/)
+  * [Blink - Piscar Led](./Exemplos-Praticos/Blink/blink.md)
 
 ## Quero contribuir
 

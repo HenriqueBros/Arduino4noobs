@@ -15,7 +15,7 @@ No começo do código temos a inicialização da *variavel* PIN do tipo *inteiro
 ```C++
 int PIN = 13;
 ```
-Logo em seguida temos a função *pinMode()* para configurar qual pino será utilzado. ...
+Logo em seguida temos a função *pinMode()* para configurar qual pino será utilzado. Recebendo como parâmetros o *PIN* que é qual o pino será usado e o *OUTPUT* que fiz que a porta mandará uma informação.
 
 ```C++
 void setup() {

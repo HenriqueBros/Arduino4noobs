@@ -20,6 +20,7 @@ Neste 4noobs focarei mais a parte da programação do arduino, você pode aprend
 - [Onde programar](./03/01-ide.md)
 - [Exemplos Práticos](./Exemplos-Praticos/)
   * [Blink - Piscar Led](./Exemplos-Praticos/Blink/blink.md)
+  * [Potenciômetro - Leitura Monitor Serial](./Exemplos-Praticos/Potenciometro/potenciometro.md)
 
 ## Quero contribuir
 

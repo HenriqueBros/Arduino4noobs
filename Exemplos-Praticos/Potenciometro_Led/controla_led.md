@@ -1,4 +1,4 @@
-# Entendendo o Código
+# Controlando led pelo potenciômetro
 
 ## Materiais necessários:
 
@@ -8,6 +8,7 @@
 - Resistor 330 Ohms 5%
 - Jumpers
 
+## Entendendo o Código
 ## Passo a passo:
 
 Acesse o [código](./pot_led.ino) para ir acompanhando.

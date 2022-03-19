@@ -1,4 +1,4 @@
-# Entendendo o Código
+# Blink - Pisca led
 
 ## Materiais necessários:
 
@@ -7,6 +7,7 @@
 - Resistor 330 Ohms 5%
 - Jumpers
 ## Passo a passo:
+## Entendendo o Código
 
 Acesse o [código](./Blink.ino) para ir acompanhando.
 

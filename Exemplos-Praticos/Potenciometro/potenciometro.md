@@ -1,10 +1,11 @@
-# Entendendo o Código
+# Lendo o potenciômetro pelo Monitor Serial
 
 ## Materiais necessários:
 
 - Arduino
 - Potenciômetro B10K
 - Jumpers
+## Entendendo o Código
 
 ## Passo a passo:
 

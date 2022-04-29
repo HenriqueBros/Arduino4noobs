@@ -4,7 +4,7 @@
 
 - Arduino
 - Led
-- Resistor 330 Ohms 5%
+- Resistor 330 Ohms(Ω) 5%
 - Jumpers
 ## Passo a passo:
 ## Entendendo o Código

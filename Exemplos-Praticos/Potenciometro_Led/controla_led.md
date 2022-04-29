@@ -5,7 +5,7 @@
 - Arduino
 - Potenciômetro B10K
 - Led
-- Resistor 330 Ohms 5%
+- Resistor 330 Ohms(Ω) 5%
 - Jumpers
 
 ## Entendendo o Código
@@ -17,7 +17,7 @@ O código dessa prática, é a junção dos dois códigos anteriores, havendo al
 
 No começo do código temos a inicialização da *variavel* "potenciometro" do tipo *inteiro* recebendo o numero *A0*, que representa a **porta analógica 0**.
 
-E inicalizamos a *variavel* "potenciometroValor" do tipo *inteiro*. E a "PIN_LED" que recebe o numero *12*.
+E inicializamos a *variavel* "potenciometroValor" do tipo *inteiro*. E a "PIN_LED" que recebe o numero *12*.
 
 ```C++
 int PIN_LED = 12;
@@ -25,7 +25,7 @@ int potenciometro = A0;
 
 int potenciometroValor;
 ```
-Logo em seguida temos a função *pinMode()* para configurar qual pino será utilzado. Recebendo como parâmetros o *PIN_LED* que é qual o pino será usado e o *OUTPUT* que fiz que a porta mandará uma informação.
+Logo em seguida temos a função *pinMode()* para configurar qual pino será utilzado. Recebendo como parâmetros o *PIN_LED* que é qual o pino será usado e o *OUTPUT* que faz com que a porta mandande uma informação.
 
 ```C++
 void setup() {
@@ -55,3 +55,4 @@ void loop() {
 <img src="./assets/pot_led.png">
 
 [Anterior](../Potenciometro/potenciometro.md)
+[Próximo](../Sensor_Luminosidade/read_ldr.md)

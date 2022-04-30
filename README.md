@@ -22,6 +22,7 @@ Neste 4noobs focarei mais a parte da programação do arduino, você pode aprend
   * [Blink - Piscar Led](./Exemplos-Praticos/Blink/blink.md)
   * [Potenciômetro - Leitura Monitor Serial](./Exemplos-Praticos/Potenciometro/potenciometro.md)
   * [Potenciômetro Controlando Led](./Exemplos-Praticos/Potenciometro_Led/controla_led.md)
+  * [Leitura do Sensor de Luminosidade(LDR)](./Exemplos-Praticos/Sensor_Luminosidade/read_ldr.md)
 
 ## Quero contribuir
 

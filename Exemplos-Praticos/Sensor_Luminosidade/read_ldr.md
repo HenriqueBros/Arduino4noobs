@@ -61,3 +61,5 @@ void loop() {
 <img src="./assets/LDR_console.png">
 
 [Anterior](../Potenciometro_Led/controla_led.md)
+
+[Pŕoximo](../Led_LDR/led_ldr.md)

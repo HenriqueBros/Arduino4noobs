@@ -40,6 +40,12 @@ Para contribuir com esse projeto maravilhoso, você:
 
 - **Henrique Machado Broseghini** - Desenvolvedor Front-end -  [Twitter](https://twitter.com/BrosHenrique) - [Dev.to](https://dev.to/henriquebros)
 ---
+
+## Contribuidores
+
+- **Gabriel Teixeira da Rocha** - [Github](https://github.com/gabrielol113)
+---
+
 <br>
   <p align="center">
   <a href="https://heartdevs.com" target="_blank">

@@ -49,3 +49,5 @@ O valor usado na condicional pode mudar de acordo com a luminosidade do ambiente
 <img src="./assets/circuito_tinker.png">
 
 [Anterior](../Sensor_Luminosidade/read_ldr.md)
+
+[Próximo](../../05/01-oque-e.md)

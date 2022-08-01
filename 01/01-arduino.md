@@ -22,6 +22,6 @@ Os modelos de arduino mais comuns são o UNO, o Mega e Leonardo.
 <br>É uma placa com o micro-controlador **ATmega2560**, com 54 entradas e saidas digitais, 16 entradas analogicas.
 
 **Leonardo**:
-<br> É uma placa que difere de todas as placas anteriores, pois o **ATmega32u4** possui comunicação USB integrada, eliminando a necessidade de um processador secundário. Com 20 entradas e saidas digitais e 12 entradas analogicas. Uma de suas caracteristicas é ser identificado como um *mouse ou um teclado* além da porta serial.
+<br> É uma placa que difere de todas as placas anteriores, pois o **ATmega32u4** possui comunicação USB integrada, eliminando a necessidade de um processador secundário. Com 20 entradas e saidas digitais e 12 entradas analógicas. Uma de suas caracteristicas é ser identificado como um *mouse ou um teclado* além da porta serial.
 
 [Próximo](../02/01-variaveis.md)

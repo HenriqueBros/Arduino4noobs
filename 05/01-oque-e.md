@@ -8,7 +8,7 @@ O arduino Leonardo é identificado como se fosse um **mouse ou teclado**, além 
 
 ## Pinagem
 
-<img src="./assets/SRL-image-0.png">
+<img src="./assets/SRL-image-0.png" height="450">
 
 
 [Anterior](../Exemplos-Praticos/Led_LDR/led_ldr.md)

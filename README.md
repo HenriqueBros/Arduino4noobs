@@ -26,7 +26,7 @@ Neste 4noobs focarei mais a parte da programação do arduino, você pode aprend
   * [Leitura do Sensor de Luminosidade(LDR)](./Exemplos-Praticos/Sensor_Luminosidade/read_ldr.md)
   * [Acendendo led com Sensor de Luminosidade(LDR)](./Exemplos-Praticos/Led_LDR/led_ldr.md)
 - [Arduino Leonardo](./05/01-oque-e.md)
-
+  * [Funções](./05/02-funcoes.md)
 ## Quero contribuir
 
 Para contribuir com esse projeto maravilhoso, você:

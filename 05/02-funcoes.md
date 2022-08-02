@@ -115,4 +115,6 @@ E retorna um **Boolean**.
 
 [Anterior](./01-oque-e.md)
 
+<!--
 [Próximo](../Exemplos-Praticos/Mouse_Move/mouse_move.md)
+>

@@ -39,7 +39,7 @@ Para contribuir com esse projeto maravilhoso, você:
 
 ## Autor
 
-- **Henrique Machado Broseghini** - Desenvolvedor Front-end -  [Twitter](https://twitter.com/BrosHenrique) - [Dev.to](https://dev.to/henriquebros)
+- **Henrique Machado Broseghini** - DevOps -  [Twitter](https://twitter.com/BrosHenrique) - [Dev.to](https://dev.to/henriquebros)
 ---
 
 ## Contribuidores
